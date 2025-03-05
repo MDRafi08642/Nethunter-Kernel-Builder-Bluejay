@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "Lineage21",
-      "repo": "https://android.googlesource.com/kernel/configs/",
-      "branch": "android-gs-bluejay-5.10-android14-qpr3-beta",
-      "device": "bluejay"
+      "name": "ViP3R-KERNEL",
+      "repo": "https://github.com/ViP3R-KERNELs/kernel_sony_sagami",
+      "branch": "main",
+      "device": "sagami"
     },
     "withKernelSU": true,
     "toolchains": [
